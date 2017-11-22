@@ -2,10 +2,13 @@ P {
   color: dark blue; 
   text-align: center; 
 }
-
-
-body {
-	background-image: url("https://www.ihdimages.com/wp-content/uploadsktz/2014/12/christmas_photography_tumblr_desktop_wallpaper.jpg");
+html {
+	hight: 100% ; 
 }
-
+body { 
+background-image: url("https://www.ihdimages.com/wp-content/uploadsktz/2014/12/christmas_photography_tumblr_desktop_wallpaper.jpg");
+background-position: center, center; 
+background-size: cover 
+background-attachment: fixed;
+}
 
